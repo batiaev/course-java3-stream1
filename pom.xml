@@ -4,19 +4,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.batiaev.java3</groupId>
-    <artifactId>java3</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>java3-stream1</artifactId>
+    <name>Java 3 :: Stream 1 (2018-05-24)</name>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:https://github.com/Batiaev/course-java-3.git</connection>
+        <connection>scm:git:https://github.com/batiaev/course-java3-stream1.git</connection>
         <tag>HEAD</tag>
     </scm>
-
-    <modules>
-        <module>stream1</module>
-        <module>stream2</module>
-    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
